@@ -7,9 +7,11 @@ header('Content-Type: text/html; charset=utf-8');
 function addEmojis($message) {
     // Define a mapping of possible emojis and their corresponding text representations
     $emojiMapping = [
-        ':)' => '😊',
-        ':D' => '😃',
-        ':(' => '😞',
+        ":)" => "😊",
+        ":(" => "😢",
+        ":D" => "😄",
+        ":P" => "😜",
+        ":O" => "😮",
         '<3' => '🤍',
         // Add more emojis and their text representations as needed
     ];
