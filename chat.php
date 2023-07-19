@@ -10,7 +10,7 @@ function addEmojis($message) {
         ':)' => '😊',
         ':D' => '😃',
         ':(' => '😞',
-        '<3' => '❤️',
+        '<3' => '🤍',
         // Add more emojis and their text representations as needed
     ];
 
